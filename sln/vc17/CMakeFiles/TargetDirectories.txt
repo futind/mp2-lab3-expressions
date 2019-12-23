@@ -1,0 +1,6 @@
+E:/the third/mp2-lab3-mathparser/sln/vc17/CMakeFiles/ALL_BUILD.dir
+E:/the third/mp2-lab3-mathparser/sln/vc17/CMakeFiles/ZERO_CHECK.dir
+E:/the third/mp2-lab3-mathparser/sln/vc17/src/CMakeFiles/mathparser.dir
+E:/the third/mp2-lab3-mathparser/sln/vc17/samples/CMakeFiles/sample_mathparser.dir
+E:/the third/mp2-lab3-mathparser/sln/vc17/gtest/CMakeFiles/gtest.dir
+E:/the third/mp2-lab3-mathparser/sln/vc17/test/CMakeFiles/test_mathparser.dir
